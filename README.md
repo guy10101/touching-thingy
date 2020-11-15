@@ -1,1 +1,2 @@
-# touching-thingy
+# collisionAlgorithm
+Algorithm to detect collision between two objects
